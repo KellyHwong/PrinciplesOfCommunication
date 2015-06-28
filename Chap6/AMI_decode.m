@@ -1,5 +1,5 @@
 function msg_code = AMI_decode(ami_code)
-% AMI_encode AMI±àÂë
+% AMI_encode AMI½âÂë
 % @Author: KellyHwong
 % @Update: 2015.5.14
 % ÊäÈëAMIÂë
